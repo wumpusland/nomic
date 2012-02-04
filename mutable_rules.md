@@ -12,9 +12,6 @@ In mail and computer games, instead of throwing a die, players subtract 291 from
 **203** A rule-change is adopted if and only if the vote is unanimous among the eligible voters. If this rule is not amended by the end of the second complete circuit of turns, it automatically changes to require only a simple majority.  
 *Proposed by Initial Ruleset on N/A, last amended by N/A on N/A*
 
-**204** If and when rule-changes can be adopted without unanimity, the players who vote against winning proposals shall receive 10 points each.  
-*Proposed by Initial Ruleset on N/A, last amended by N/A on N/A*
-
 **205** An adopted rule-change takes full effect at the moment of the completion of the vote that adopted it.  
 *Proposed by Initial Ruleset on N/A, last amended by N/A on N/A*
 
@@ -66,4 +63,7 @@ This rule takes precedence over every other rule determining the winner.
 
 **307** There exists a map called the 'gameboard.' An up to date version of the 'gameboard' shall be kept with the rest of the Wumpusland documentation. The 'gameboard' contains at least two completely distinct areas; one labeled "Start," and one labeled "Finish." When any player lands on the 'Finish' area, no further play is possible. That player gets another turn. No player may move on the 'gameboard' until the rules of such movement are further clarified in future rules.  
 *Proposed by Richie on 1/17/12, last amended by N/A on N/A*
+
+**308** Repeal rule 204.  
+*Proposed by Craig on 1/19/12, last amended by N/A on N/A*
 

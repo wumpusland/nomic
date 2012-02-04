@@ -37,3 +37,8 @@ There exists a map called the 'gameboard.' An up to date version of the 'gameboa
 - *yes* - Shawn, Peter, Richie, Craig,   
 - *no* - 
 
+**308** *Craig* - **PASSED**  
+Repeal rule 204.  
+- *yes* - Shawn, Peter, Richie, Craig,   
+- *no* - 
+
