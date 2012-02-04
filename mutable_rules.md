@@ -45,9 +45,6 @@ New Judges are not bound by the decisions of old Judges. New Judges may, however
 This rule takes precedence over every other rule determining the winner.  
 *Proposed by Initial Ruleset on N/A, last amended by N/A on N/A*
 
-**301** Immutable rules are now mutable except for rule 101. (this will allow us to change to majority voting instead of unanimous asap)  
-*Proposed by Shawn Bartok on 12/30/11, last amended by N/A on N/A*
-
 **302** A new proposal must be presented for discussion within 48 hours of the conclusion of the previous round; failure to do so will result in a 5-point penalty to the player whose turn it is, and the skipping of that player's turn.  
 *Proposed by Peter on 1/5/12, last amended by N/A on N/A*
 
@@ -66,4 +63,12 @@ This rule takes precedence over every other rule determining the winner.
 
 **308** Repeal rule 204.  
 *Proposed by Craig on 1/19/12, last amended by N/A on N/A*
+
+**309** For a player to land on the start position of the game board they must
+have a sufficient game piece that depicts a resemblance of them riding
+a mythical creature.  To determine if this game piece is sufficient
+anyone can call for a vote at any time by sharing their game piece
+with everyone else in Wumpusland and a simple majority results in the
+game piece being placed on the starting position.  
+*Proposed by Shawn on 1/21/12, last amended by N/A on N/A*
 

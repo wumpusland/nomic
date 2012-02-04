@@ -42,3 +42,14 @@ Repeal rule 204.
 - *yes* - Shawn, Peter, Richie, Craig,   
 - *no* - 
 
+**309** *Shawn* - **PASSED**  
+For a player to land on the start position of the game board they must
+have a sufficient game piece that depicts a resemblance of them riding
+a mythical creature.  To determine if this game piece is sufficient
+anyone can call for a vote at any time by sharing their game piece
+with everyone else in Wumpusland and a simple majority results in the
+game piece being placed on the starting position.  
+- *yes* - Shawn, Peter, Richie, Craig,   
+- *no* -  
+- *abstain* - Andy, Norman,
+  
