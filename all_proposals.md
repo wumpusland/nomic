@@ -26,3 +26,9 @@ In order for a rule change or new rule to be voted into existence it simply requ
 - *yes* - Shawn, Peter, Richie,   
 - *no* - Craig, 
 
+**306** *Peter* - **PASSED**  
+Point trading is allowed. That is, two players may (in private or public) come to some agreement of services in exchange for points at any time (not just on one of their turns). The transfer occurs when one of the parties involved has emailed the group stating the amount being sent from whom and to whom, and the second party involved seconding the procedure.  
+[*This rule will be amended to allow confidential trading of points as soon as a framework to allow it has been finished and approved.*]  
+- *yes* - Shawn, Peter, Richie, Craig,   
+- *no* - 
+

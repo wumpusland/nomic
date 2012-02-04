@@ -60,3 +60,7 @@ This rule takes precedence over every other rule determining the winner.
 **304** Rule 209 (At no time may there be more than 25 mutable rule.) is repealed until rule 301 is no longer in effect.  
 *Proposed by Craig on 1/11/12, last amended by N/A on N/A*
 
+**306** Point trading is allowed. That is, two players may (in private or public) come to some agreement of services in exchange for points at any time (not just on one of their turns). The transfer occurs when one of the parties involved has emailed the group stating the amount being sent from whom and to whom, and the second party involved seconding the procedure.  
+[*This rule will be amended to allow confidential trading of points as soon as a framework to allow it has been finished and approved.*]  
+*Proposed by Peter on 1/17/12, last amended by N/A on N/A*
+
