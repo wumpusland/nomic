@@ -14,8 +14,8 @@ Immutable Rules
 **104** All rule-changes proposed in the proper way shall be voted on. They will be adopted if and only if they receive the required number of votes.  
 *Proposed by Initial Ruleset on N/A, last amended by N/A on N/A*
 
-**105** Every player is an eligible voter. Every eligible voter must participate in every vote on rule-changes.  
-*Proposed by Initial Ruleset on N/A, last amended by N/A on N/A*
+**105** Every player is an eligible voter.    
+*Proposed by Initial Ruleset on N/A, last amended by Richie (303) on 1/10/12*
 
 **106** All proposed rule-changes shall be written down before they are voted on. If they are adopted, they shall guide play in the form in which they were voted on.  
 *Proposed by Initial Ruleset on N/A, last amended by N/A on N/A*

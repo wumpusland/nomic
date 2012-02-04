@@ -57,3 +57,6 @@ This rule takes precedence over every other rule determining the winner.
 **302** A new proposal must be presented for discussion within 48 hours of the conclusion of the previous round; failure to do so will result in a 5-point penalty to the player whose turn it is, and the skipping of that player's turn.  
 *Proposed by Peter on 1/5/12, last amended by N/A on N/A*
 
+**303** We define a 'quorum' to be the minimum number of 'eligible voters' required for an action on a rule change to be accepted. It will currently be set to 2/3rds of the number of 'eligible voters', rounded up. Once a proposal has been presented, quorum must be reached within 36 hours. At the end of this time period, if 'quorum' has been reached and not all 'eligible voters' have voted, action may be taken as if the 'eligible voters' making up the 'quorum' represented all 'eligible voters', and 'Eligible voters' not in the 'quorum' will be penalized 2 points. If 'quorum' is not reached, the rule change is considered 'tabled' - no points are awarded or subtracted, and the rule number does not increment, but that players turn is ended.  
+*Proposed by Richie on 1/10/12, last amended by N/A on N/A*
+
