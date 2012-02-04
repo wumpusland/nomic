@@ -54,3 +54,6 @@ This rule takes precedence over every other rule determining the winner.
 **301** Immutable rules are now mutable except for rule 101. (this will allow us to change to majority voting instead of unanimous asap)  
 *Proposed by Shawn Bartok on 12/30/11, last amended by N/A on N/A*
 
+**302** A new proposal must be presented for discussion within 48 hours of the conclusion of the previous round; failure to do so will result in a 5-point penalty to the player whose turn it is, and the skipping of that player's turn.  
+*Proposed by Peter on 1/5/12, last amended by N/A on N/A*
+
