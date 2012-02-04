@@ -64,3 +64,6 @@ This rule takes precedence over every other rule determining the winner.
 [*This rule will be amended to allow confidential trading of points as soon as a framework to allow it has been finished and approved.*]  
 *Proposed by Peter on 1/17/12, last amended by N/A on N/A*
 
+**307** There exists a map called the 'gameboard.' An up to date version of the 'gameboard' shall be kept with the rest of the Wumpusland documentation. The 'gameboard' contains at least two completely distinct areas; one labeled "Start," and one labeled "Finish." When any player lands on the 'Finish' area, no further play is possible. That player gets another turn. No player may move on the 'gameboard' until the rules of such movement are further clarified in future rules.  
+*Proposed by Richie on 1/17/12, last amended by N/A on N/A*
+

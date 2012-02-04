@@ -32,3 +32,8 @@ Point trading is allowed. That is, two players may (in private or public) come t
 - *yes* - Shawn, Peter, Richie, Craig,   
 - *no* - 
 
+**307** *Richie* - **PASSED**  
+There exists a map called the 'gameboard.' An up to date version of the 'gameboard' shall be kept with the rest of the Wumpusland documentation. The 'gameboard' contains at least two completely distinct areas; one labeled "Start," and one labeled "Finish." When any player lands on the 'Finish' area, no further play is possible. That player gets another turn. No player may move on the 'gameboard' until the rules of such movement are further clarified in future rules.  
+- *yes* - Shawn, Peter, Richie, Craig,   
+- *no* - 
+
