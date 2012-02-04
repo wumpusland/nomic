@@ -8,5 +8,5 @@ List of all Wumpusland members, in play order
     Peter              16       joined 12/30/11
     Richie             48       joined 12/30/11
     Craig              51       joined 12/30/11
-    Andy               -2       joined  1/21/12
+    Andy               11       joined  1/21/12
     Norman             -6       joined  1/21/12

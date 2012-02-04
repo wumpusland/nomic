@@ -72,3 +72,16 @@ The game state cannot be modified except in any way explicitly stated by the rul
 - *no* -   
 - *abstain* - Norman, 
 
+**313** *Andy* - **PASSED**  
+The game board is envisioned as a physical space, and during play game pieces exist at a single point (x,y,z,t,w) on the board except while in transition from one location to another through a process yet to be defined. As in a physical space, such changes in frame require energy, or fuel. Fuel costs are proportional to the distance traveled, and  historical data indicate that unit price is proportional to the total amount of circulating currency [1]. Therefore, motion from one point on the board to another will cost a certain number of points determined by (a) distance from starting to ending point, and (b) the total number of points in play at the beginning of the turn.  
+The travel distance is calculated as the spacetime interval between the starting point p1 (x1,y1,z1,t1,w1) and ending point p2 (x2,y2,z2,t2,w2), here using:
+     s = sqrt( (x2 - x1)^2 + (y2 - y1)^2 + (z2 - z1)^2 - (t2 - t1)^2 + (d(w1,w2))^2 ), 
+where d(a,b) = displacement in the wump dimension.  
+The cost c of travel is determined using s and the sum of all players' points, p:
+     c = ceil( s * log_(phi) (s * gamma(p / 100 + phi) )
+where ceil is the ceiling function, gamma is the (real) gamma function, the logarithm base is phi, and phi is the golden ratio, approximately 1.618.  
+Points will be deducted at the completion of the turn involving the change of location. Players may not move to locations the motion to which would exceed in fuel costs their number of points. Fuel costs do not preclude the waging of other fees, taxes, etc., for travel to or from any location on the game board, or for any other reason.  
+- *yes* - Peter, Richie, Andy, Norman,   
+- *no* - Shawn, Craig,   
+- *abstain* - 
+
