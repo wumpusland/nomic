@@ -50,3 +50,7 @@ New Judges are not bound by the decisions of old Judges. New Judges may, however
 **213** If the rules are changed so that further play is impossible, or if the legality of a move cannot be determined with finality, or if by the Judge's best reasoning, not overruled, a move appears equally legal and illegal, then the first player unable to complete a turn is the winner.  
 This rule takes precedence over every other rule determining the winner.  
 *Proposed by Initial Ruleset on N/A, last amended by N/A on N/A*
+
+**301** Immutable rules are now mutable except for rule 101. (this will allow us to change to majority voting instead of unanimous asap)  
+*Proposed by Shawn Bartok on 12/30/11, last amended by N/A on N/A*
+
