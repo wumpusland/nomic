@@ -59,3 +59,10 @@ I propose that in order for a player to move on the gameboard, when/if such a pr
 - *no* - Shawn, Richie, Craig, Andy, Norman,   
 - *abstain* - 
 
+**311** *Richie* - **PASSED**  
+Positions on the gameboard are described by a 5-tuple of integers (positive or negative) - for example, (5,-1,4,0,0), (which for convenience can be written as a 3-tuple (5,1,4) when the last two numbers are both zero. The first 3 represent distance north of the origin, distance east of the origin, and height above the origin, each in units of wumplength. The fourth number represents time in the future ahead of the origin, in units of wumptime - where the origin is always at the current time. The fifth number represents distance from the origin along the wump axis, in units of wumpitude. The gameboard extends infinitely in all dimentions except for the 5th, in which it has a circular topology with (x,y,z,t,w) === (x,y,z,t,w modulo 3).  
+The start area is centered at the origin (0,0,0,0,0) and the Wumpusland Warehouse where points can be exchanged for items is located at (2,10,0,0,0).  
+- *yes* - Shawn, Peter, Richie, Craig, Andy,   
+- *no* -   
+- *abstain* - Norman, 
+
