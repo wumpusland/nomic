@@ -53,3 +53,9 @@ game piece being placed on the starting position.
 - *no* -  
 - *abstain* - Andy, Norman,
   
+**310** *Peter* - **FAILED**  
+I propose that in order for a player to move on the gameboard, when/if such a process has been well-defined and regulated, it must occur on said person's turn, and will constitute the entirety of said person's turn.  
+- *yes* - Peter,   
+- *no* - Shawn, Richie, Craig, Andy, Norman,   
+- *abstain* - 
+
