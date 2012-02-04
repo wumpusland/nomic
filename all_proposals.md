@@ -66,3 +66,9 @@ The start area is centered at the origin (0,0,0,0,0) and the Wumpusland Warehous
 - *no* -   
 - *abstain* - Norman, 
 
+**312** *Craig* - **PASSED**  
+The game state cannot be modified except in any way explicitly stated by the rules. The game state currently includes: the number of points any player has, the rules, proposals or votes, positions on the game board, items on the game board, winners and losers of the game, points trades, or any motion or action involving the game board. As any actions are defined which players may do to affect the game, those actions are implicitly added to the "game state" (eg, should players be allowed to give their pieces unique powers, those powers will now be part of the game state and must be used in ways that are explicitly stated by the rules. Or, if players are allowed to craft items from points, those crafting actions will affect game state and thus have to be explicitly allowed by rules) However, if an action is taken that does not affect the game state in any way, it is still allowed even if no rule explicitly states it. (eg, if there is a unanimous vote that pete smells bad, unless smelling bad affects the game state in some way, it would be allowed)  
+- *yes* - Shawn, Peter, Richie, Craig, Andy,   
+- *no* -   
+- *abstain* - Norman, 
+
