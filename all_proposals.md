@@ -20,3 +20,9 @@ We define a 'quorum' to be the minimum number of 'eligible voters' required for 
 Rule 209 (At no time may there be more than 25 mutable rule.) is repealed until rule 301 is no longer in effect.  
 - *yes* - Shawn, Peter, Richie, Craig,   
 - *no* - 
+
+**305** *Shawn* - **FAILED**  
+In order for a rule change or new rule to be voted into existence it simply requires 2/3 majority with the person proposing the rule counting as a vote (instead of the previous 100% support).  
+- *yes* - Shawn, Peter, Richie,   
+- *no* - Craig, 
+
