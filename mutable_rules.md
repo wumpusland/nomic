@@ -89,3 +89,8 @@ where ceil is the ceiling function, gamma is the (real) gamma function, the loga
 Points will be deducted at the completion of the turn involving the change of location. Players may not move to locations the motion to which would exceed in fuel costs their number of points. Fuel costs do not preclude the waging of other fees, taxes, etc., for travel to or from any location on the game board, or for any other reason.  
 *Proposed by Andy on 1/31/12, last amended by N/A on N/A*
 
+**314** Further members to Wumpusland must be approved by majority vote unless an exception applies.  All executions of exceptions must be reviewed by majority vote of Wumpusland members.  
+Exception I. Proposed member is exempt if these conditions are met: (1) youtube video is posted of that proposed member eating a teaspoon of cinnamon (2) proposed member waxing of all pubic hair in the presence of a Jain (3) stealing of another Wupusland member's spoon.  
+Exception II. Proposed member must have unanimous approval if that proposed member slept with a proposed member' friend's sister or a member's sister.  
+*Proposed by Norman on 2/3/12, last amended by N/A on N/A*
+
