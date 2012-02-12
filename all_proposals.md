@@ -93,3 +93,11 @@ Exception II. Proposed member must have unanimous approval if that proposed memb
 - *no* - Andy,   
 - *abstain* - 
 
+**315** *Shawn* - **PASSED**  
+During your turn you may use a random number generator that gives a natural number with values ranging from 1 to 6. Your game piece teleports that many consecutive spaces along the game board from your location when you generated a random number when/if game spaces are defined.  Once using the random number generator it is not optional to teleport, but if multiple directions are possible you can choose which direction.  
+To decide game spaces players may submit designs at any time so long as there is not currently a design being voted on.  Simple majority will result in the design being adopted.  Once an initial design has been accepted any future submissions must be given only during your turn (in addition to your rule) and the outcome of the vote on your rule will be the outcome of the amended game spaces.  
+Keep in mind any submissions need to reflect the five dimensions that the board has already been ruled to have.  
+- *yes* - Shawn, Peter, Richie, Craig, Andy,   
+- *no* -   
+- *abstain* - Norman, 
+

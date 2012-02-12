@@ -25,6 +25,9 @@ In mail and computer games, instead of throwing a die, players subtract 291 from
 In mail and computer games, the winner is the first player to achieve 200 (positive) points.  
 *Proposed by Initial Ruleset on N/A, last amended by N/A on N/A*
 
+**209** At no time may there be more than 25 mutable rules.  
+*Proposed by Initial Ruleset on N/A, last amended by N/A on N/A*
+
 **210** Players may not conspire or consult on the making of future rule-changes unless they are team-mates.  
 The first paragraph of this rule does not apply to games by mail or computer.  
 *Proposed by Initial Ruleset on N/A, last amended by N/A on N/A*
@@ -50,9 +53,6 @@ This rule takes precedence over every other rule determining the winner.
 
 **303** We define a 'quorum' to be the minimum number of 'eligible voters' required for an action on a rule change to be accepted. It will currently be set to 2/3rds of the number of 'eligible voters', rounded up. Once a proposal has been presented, quorum must be reached within 36 hours. At the end of this time period, if 'quorum' has been reached and not all 'eligible voters' have voted, action may be taken as if the 'eligible voters' making up the 'quorum' represented all 'eligible voters', and 'Eligible voters' not in the 'quorum' will be penalized 2 points. If 'quorum' is not reached, the rule change is considered 'tabled' - no points are awarded or subtracted, and the rule number does not increment, but that players turn is ended.  
 *Proposed by Richie on 1/10/12, last amended by N/A on N/A*
-
-**304** Rule 209 (At no time may there be more than 25 mutable rule.) is repealed until rule 301 is no longer in effect.  
-*Proposed by Craig on 1/11/12, last amended by N/A on N/A*
 
 **306** Point trading is allowed. That is, two players may (in private or public) come to some agreement of services in exchange for points at any time (not just on one of their turns). The transfer occurs when one of the parties involved has emailed the group stating the amount being sent from whom and to whom, and the second party involved seconding the procedure.  
 [*This rule will be amended to allow confidential trading of points as soon as a framework to allow it has been finished and approved.*]  
@@ -93,4 +93,9 @@ Points will be deducted at the completion of the turn involving the change of lo
 Exception I. Proposed member is exempt if these conditions are met: (1) youtube video is posted of that proposed member eating a teaspoon of cinnamon (2) proposed member waxing of all pubic hair in the presence of a Jain (3) stealing of another Wupusland member's spoon.  
 Exception II. Proposed member must have unanimous approval if that proposed member slept with a proposed member' friend's sister or a member's sister.  
 *Proposed by Norman on 2/3/12, last amended by N/A on N/A*
+
+**315** During your turn you may use a random number generator that gives a natural number with values ranging from 1 to 6. Your game piece teleports that many consecutive spaces along the game board from your location when you generated a random number when/if game spaces are defined.  Once using the random number generator it is not optional to teleport, but if multiple directions are possible you can choose which direction.  
+To decide game spaces players may submit designs at any time so long as there is not currently a design being voted on.  Simple majority will result in the design being adopted.  Once an initial design has been accepted any future submissions must be given only during your turn (in addition to your rule) and the outcome of the vote on your rule will be the outcome of the amended game spaces.  
+Keep in mind any submissions need to reflect the five dimensions that the board has already been ruled to have.  
+*Proposed by Shawn on 2/6/2012, last amended by N/A on N/A*
 
