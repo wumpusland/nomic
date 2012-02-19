@@ -112,3 +112,9 @@ On the other hand if I travel to 15 AW and build a castle at a point, and in 10 
 - *no* -   
 - *abstain* - Andy, 
 
+**317** *Craig* - **PASSED**  
+The Finish area on the game board, and all references to it in any pre-existing rules, are replaced by the term, "Finnish area." No player may enter the Finnish area unless they have a full set of winter gear (coat, wool knit cap, and snow shoes. pants optional), are holding a plate of lox (of any kind, including wumplox, ultralox, or negalox), and have been granted permission by a Wumpmoose.  
+- *yes* - Shawn, Peter, Richie, Craig, Andy,   
+- *no* -   
+- *abstain* - Norman, 
+
